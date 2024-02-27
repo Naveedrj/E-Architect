@@ -1,4 +1,4 @@
-# a_architectural_app
+# E-Architech
 
 A new Flutter project.
 
